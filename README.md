@@ -19,7 +19,7 @@ The system is designed for real-world agricultural applications, focusing on acc
 ---
 
 ## 📊 Dataset
-- Custom dataset of Indian ridge gourd leaves **developed by us**
+- Custom dataset of Indian ridge gourd leaves **developed and published by us**
 - Real-world images collected from agricultural fields  
 - Augmented dataset for improved generalization  
 
